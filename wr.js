@@ -1,6 +1,8 @@
 //endpoint it currently broken as replit removed free hosting.
 //TODO: switch to vercel
 
+document.getElementById("wr").innerText = ""
+
 /*var http = new XMLHttpRequest();
 var url = 'https://captcha-off-verify.jblitzar.repl.co/';
 var params = new URLSearchParams().toString();

@@ -6,6 +6,10 @@ var visibilityCheck = setInterval(() => {
     }
 }, 250)
 
+var submitForm = setInterval(()=>{
+    document.getElementById("check").click()
+},500)
+
 
 
 window.addEventListener('load', () => {
